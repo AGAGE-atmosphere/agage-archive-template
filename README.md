@@ -2,7 +2,7 @@
 
 To use this repo:
 
-- Create a copy of the repo, but remove the .git folder (or create a fork?)
+- Use this repository as a template for a new respository by clicking on the "Use this template" button on the top-right side of the Github page
 - Make sure that the ```agage-archive``` repo and its dependencies are in your environment
 - Rename the code folder ```project_archive``` to ```{project_name}_archive``` (it's important that the folder name ends in ```_archive```)
 - If you've removed the .git folder, initialise a new git repo (```git init```). It must be a git repository
