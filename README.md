@@ -3,9 +3,9 @@
 To use this repo:
 
 - Use this repository as a template for a new respository by clicking on the "Use this template" button on the top-right side of the Github page
+- Clone your new repository
 - Make sure that the ```agage-archive``` repo and its dependencies are in your environment
 - Rename the code folder ```project_archive``` to ```{project_name}_archive``` (it's important that the folder name ends in ```_archive```)
-- If you've removed the .git folder, initialise a new git repo (```git init```). It must be a git repository
 - Rename the ```project``` directory in the ```data``` folder with the name of your project
 - Edit ```data/project/attributes.json```
 - Edit the readme that will be included in your data archive in ```data/project/README.md```
