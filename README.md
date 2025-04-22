@@ -9,7 +9,7 @@ To use this repo:
 - Rename the ```project``` directory in the ```data``` folder with the name of your project
 - Edit ```data/project/attributes.json```
 - Edit the readme that will be included in your data archive in ```data/project/README.md```
-- Edit the repository readme
+- Edit your project repository readme
 - Run the ```config.py``` script and edit the template config file in that is generated in ```project_archive/config.yaml``` with the correct paths to your data and output directories/zip archives
 - Edit the spreadsheets ```data_combination.xlsx```, ```data_exclude.xlsx```, ```data_release_schedule.xlsx``` and ```scale_defaults.csv``` in the ```data/project``` folder as appropriate for your dataset. Remove or add sites, instruments and species as required
 - Edit ```project_archive/run.py``` with the appropriate code to process your data files. Import and use functions from agage-archive as much as possible, for standardisation
