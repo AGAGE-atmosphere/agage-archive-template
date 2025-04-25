@@ -16,3 +16,4 @@ To use this repo:
 - Edit ```project_archive/run.py``` with the appropriate code to process your data files. Import and use functions from agage-archive as much as possible, for standardisation
 - Run the run script
 - Edit the project name in ```notebooks/visualisation.ipynb``` to view the archive contents
+- When you've completed all of these steps, edit this ```README``` to be appropriate for the project
