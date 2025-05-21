@@ -12,7 +12,7 @@ To use this repo:
 - Edit the readme that will be included in your data archive in ```data/project/README.md```
 - Edit your project repository readme
 - Run the ```config.py``` script and edit the template config file in that is generated in ```project_archive/config.yaml``` with the correct paths to your data and output directories/zip archives
-- Edit the spreadsheets ```data_combination.xlsx```, ```data_exclude.xlsx```, ```data_release_schedule.xlsx``` and ```scale_defaults.csv``` in the ```data/project``` folder as appropriate for your dataset. Remove or add sites, instruments and species as required
+- Edit the csv files in the folders ```data_combination/```, ```data_exclude/```, ```data_release_schedule/``` and ```scale_defaults.csv``` in the ```data/project``` folder as appropriate for your dataset. Remove or add sites, instruments and species as required
 - Edit ```project_archive/run.py``` with the appropriate code to process your data files. Import and use functions from agage-archive as much as possible, for standardisation
 - Run the run script
 - Edit the project name in ```notebooks/visualisation.ipynb``` to view the archive contents
